@@ -3,5 +3,7 @@ public class GrantPermissionsFunction {
     private String userSig;
     private String permissions;
 
+    private String na;
+
 
 }
